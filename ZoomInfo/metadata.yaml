@@ -1,0 +1,5 @@
+homepage: "https://holini.com/"
+versions:
+  # Latest version
+  - sha: fill
+    changeNotes: Initial release.
