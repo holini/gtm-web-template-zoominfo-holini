@@ -2,5 +2,5 @@ homepage: "https://holini.com/"
 documentation: "https://github.com/holini/gtm-web-template-zoominfo-holini"
 versions:
   # Latest version
-  - sha: fill
+  - sha: 6d63ebba0d23dd00fc80a0719b38253cb4ab99e2
     changeNotes: Initial release.
