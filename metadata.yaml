@@ -1,4 +1,5 @@
 homepage: "https://holini.com/"
+documentation: "https://github.com/holini/gtm-web-template-zoominfo-holini"
 versions:
   # Latest version
   - sha: fill
